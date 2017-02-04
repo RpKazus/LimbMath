@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\LimbMath\LimbMath\bin\Debug\LimbMath.pdb
+D:\Documents\Visual Studio 2015\Projects\LimbMath\LimbMath\obj\Debug\LimbMath.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\LimbMath\LimbMath\obj\Debug\LimbMath.pdb
+D:\Documents\Visual Studio 2015\Projects\LimbMath\LimbMath\bin\Debug\LimbMath.exe.config
+D:\Documents\Visual Studio 2015\Projects\LimbMath\LimbMath\bin\Debug\LimbMath.exe
+D:\Documents\Visual Studio 2015\Projects\LimbMath\LimbMath\obj\Debug\LimbMath.exe
